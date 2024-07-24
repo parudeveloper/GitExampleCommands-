@@ -17,6 +17,12 @@ git add . // to add all files to the current commit
 git pull origin main
 git push origin main
 
+git checkout branchname // to switch in between the branches
+git checkout -  // Switch Back to the Previous Branch
+git fetch
+
+
+
 
 
 
