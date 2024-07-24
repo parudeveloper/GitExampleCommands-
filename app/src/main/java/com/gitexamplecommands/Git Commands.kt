@@ -25,6 +25,8 @@ git checkout -b new-feature // new-feature we need to enter our new branch name
 
 This is Branch NEW FEATURE
 
+if we want set upstream
+    git push --set-upstream origin new-feature
 
 
 * */
