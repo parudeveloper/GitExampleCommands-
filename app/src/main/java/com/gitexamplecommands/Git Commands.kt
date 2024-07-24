@@ -18,6 +18,12 @@ git pull origin main
 git push origin main
 
 
+git branch
+git checkout -b new-feature // new-feature we need to enter our new branch name
+
+
+
+
 
 
 
